@@ -1,0 +1,19 @@
+.HideGroups_Settings {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.HideGroups_Setting {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+    margin: 0 !important;
+}
+
+.HideGroups_Input {
+    width: 90%;
+}
