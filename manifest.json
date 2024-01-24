@@ -1,20 +1,20 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "moe.seikimo.hide-groups",
+  "name": "Hide Groups",
+  "description": "Hides group DMs.",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "KingRainbow44",
+    "discordID": "252090676068614145",
+    "github": "KingRainbow44"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "KingRainbow44/Hide-Groups"
   },
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
+  "source": "https://github.com/KingRainbow44/Hide-Groups",
   "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
 }

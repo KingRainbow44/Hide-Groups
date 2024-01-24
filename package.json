@@ -1,7 +1,7 @@
 {
-  "name": "plugin-template",
+  "name": "hide-groups",
   "version": "1.0.0",
-  "description": "A plugin template",
+  "description": "Hides group DMs.",
   "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=8.0.0"
